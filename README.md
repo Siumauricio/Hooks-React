@@ -1,11 +1,11 @@
 # Hooks Watched
-UseState
-UseEffect
-UseRef
-UseLayoutEffect
-UseReducer
-Memorize
-Examples
+*UseState
+*UseEffect
+*UseRef
+*UseLayoutEffect
+*UseReducer
+*Memorize
+*Examples
 
 # Getting Started with Create React App
 
