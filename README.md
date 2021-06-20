@@ -5,6 +5,7 @@
 * UseLayoutEffect
 * UseReducer
 * Memorize
+* Context
 * Examples
 
 # Getting Started with Create React App
